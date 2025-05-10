@@ -17,9 +17,10 @@
 #### **Data Analysis**  
 📈 Pandas • Excel • Tableau • Statistical Modeling  
 #### **Development**  
-🌐 HTML/CSS • JavaScript • Git  
+🌐 HTML/CSS • JavaScript • Git • java
+• React
 #### **Journalism**  
-✍️ Investigative Research • Data Visualization • Feature Writing  
+✍️ Investigative Research • Data Visualization • Feature Writing • Fact checking
 
 ---
 
