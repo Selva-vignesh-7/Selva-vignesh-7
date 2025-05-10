@@ -1,15 +1,15 @@
 🌟 **SELVAVIGNESH G R**
 
-**🎖️ NDA Aspirant | 🏐 National Athlete | 📊 Data Analyst | ✍️ Journalist**  
+**🎖️🪖 CDS Aspirant | 🏐 National Athlete | 📊 Data Analyst | ✍️ Journalist**  
 
 *Bridging sports discipline, data insights, and storytelling to serve and inform*  
 
 ---
 
 ### 🏅 **My Core Passions**  
-- **Sports & Defense:** National-level volleyball player training to serve through NDA  
+- **Sports & Defense:** National-level volleyball player, training to 🪖serve through CDS 
 - **Data Storytelling:** Transforming numbers into compelling narratives  
-- **Public Service Journalism:** Investigating stories that matter at the intersection of sports and defense  
+- **Public Service Journalism:** ✒️Investigating stories that matter at the intersection of sports, defense, politics, history, rational thinking. 
 
 ---
 
