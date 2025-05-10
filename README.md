@@ -1,4 +1,4 @@
-🌟 SELVAVIGNESH G R 
+🌟 **SELVAVIGNESH G R**
 
 **🎖️ NDA Aspirant | 🏐 National Athlete | 📊 Data Analyst | ✍️ Journalist**  
 
