@@ -1,16 +1,19 @@
-## Hi there 👋
+⚡ I'm SELVAVIGNESH 
+🏐 Athlete | 🎖️ Future Army 🪖 Officer | ⌨️ Developer | 📊 Journalist 
 
-<!--
-**Selva-vignesh-7/Selva-vignesh-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turning discipline into code and spikes into solutions
 
-Here are some ideas to get you started:
+National volleyball player by training NDA candidate by purpose
+Tech enthusiast by passion  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My Battlefield
+
+class Life:
+    def __init__(self):
+        self.sports = ["Volleyball", "Javelin", "Football"]
+        self.mission = "Serve through tech and defense"
+        self.skills = {
+            "code": ["Python", "JavaScript", "HTML/CSS" , "java" , "MySQL"],
+            "data": ["Pandas", "Matplotlib", "Excel"],
+            "soft": ["Leadership", "Teamwork", "Resilience"]
+        }
